@@ -1,4 +1,4 @@
-#Coaching--Learning-Managment
+#Educandor-
 
 >Coaching-Learning-System is a multi-purpose, high quality eLearning template LMS (Learning management system) for teachers, instructors, education center, schools, universities to create and manage your own online course website. This template flexibility and power can help you easily create beautiful online courses, share your knowledge.
 
